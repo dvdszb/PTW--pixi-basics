@@ -1,1 +1,2 @@
-# PTW--pixi-basics
+# PTW - Pixi-basics
+Gyakorlás.
